@@ -6,5 +6,5 @@ $(window).on("load", function() {
 });
 
 $(".signup").on("click", function () {
-	window.location.replace("signup.html");
+	window.location.replace("html/signup.html");
 });
