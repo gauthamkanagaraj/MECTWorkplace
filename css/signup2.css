@@ -75,3 +75,16 @@ canvas {
 	border: none;
 	outline: 0;
 }
+
+.img {
+	max-width: 60%;
+	border-radius: 50%;
+}
+
+.img-canvas {
+	background-color: black;
+	width: 200px;
+	height: 200px;
+	border-radius: 50%;
+	display: none;
+}
