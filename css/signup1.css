@@ -75,6 +75,10 @@ select {
 	font-size: 18px;
 }
 
+select option {
+	background-color: white;
+}
+
 input:focus {
 	border: 1px solid #ff914d;
 }
